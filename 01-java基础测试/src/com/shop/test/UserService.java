@@ -14,4 +14,11 @@ package com.shop.test;
   
   // 旺财新加了方法
   void wangwai();
+  
+  
+  
+  
+  // 旺财新加了一个查询方法
+  void selectUser();
+  
 }
