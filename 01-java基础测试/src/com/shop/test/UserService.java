@@ -14,4 +14,7 @@ package com.shop.test;
   
   // 旺财新加了方法
   void wangwai();
+  
+  // 李四也加了方法
+  void lisiAdd();
 }
