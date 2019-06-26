@@ -10,4 +10,8 @@ package com.shop.test;
   
   // 添加了一个删除方法
   void deleteUser();
+  
+  
+  // 旺财新加了方法
+  void wangwai();
 }
